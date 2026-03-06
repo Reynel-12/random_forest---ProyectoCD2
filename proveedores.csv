@@ -1,0 +1,6 @@
+proveedor_id,dias_reposicion
+PROV03,"martes,sabado"
+PROV01,"martes,viernes"
+PROV05,viernes
+PROV02,"martes,miercoles,jueves"
+PROV04,miercoles
